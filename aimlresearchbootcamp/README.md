@@ -16,7 +16,7 @@ Each summer, MehtA+ offers a 6-week AI/Machine Learning Research Bootcamp where 
 4) Classifying whether a patient has melanoma using images of skin lesions
 5) Charting the evolution of the word "que" in the Spanish language 
 6) Analyzing sentiment of tweets for stock price prediction. 
-7) Detecting Fake News
+7) Identifying Fake News
 8) Determining the author of disputed Federalist papers
 9) Building a Latin translator
 10) Detecting Credit Card Fraud 
