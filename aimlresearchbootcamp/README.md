@@ -1,5 +1,13 @@
 # MehtA+ AI/Machine Learning Research Bootcamp Projects
 
+<p align="center">
+<br>
+  <img style="width:300px;"src="2022/Spanish.png" />
+  <img style="width:355px;"src="2022/AgriLearning.jpeg" />
+  <img style="width:265px;"src="2022/Retinal.png" />
+<br>
+</p>
+
 Each summer, MehtA+ offers a 6-week AI/Machine Learning Research Bootcamp where students learn the theory and application of AI and machine learning and then apply these techniques to a digital humanities or science project with a real world impact. Here are 10 super cool projects that students have worked on. 
 
 1) Predicting weather-related flight delays
@@ -35,14 +43,6 @@ Click on the different years to check out the past final and mid projects for AI
 
 [Past Projects - 2020](2020)
 
-
-<p align="center">
-<br>
-  <img style="width:300px;"src="2022/Spanish.png" />
-  <img style="width:355px;"src="2022/AgriLearning.jpeg" />
-  <img style="width:265px;"src="2022/Retinal.png" />
-<br>
-</p>
 
 
 If you have any questions, please reach out to info@mehtaplustutoring.com and make sure to join our mailing list!
