@@ -61,7 +61,7 @@ Abstract: By performing topical analysis models on fictional novels such as Sher
 
 
 ## Mid Projects
-For their mid project, students worked together in groups to determine geographical entities in American poet Marianne Moore’s poems through machine learning. A variety of methods were used, including Named Entity Recognition, Word2Vec and LDA. Each group created a website displaying their methodology. 
+For their mid project, students worked together in groups to determine geographical entities in American poet Marianne Moore’s poems provided by *University of Buffalo SUNY* through machine learning. A variety of methods were used, including Named Entity Recognition, Word2Vec and LDA. Each group created a website displaying their methodology. 
 
 Team 1 – [Link to Website](https://amklin.github.io/Midterm-project.github.io/)
 
