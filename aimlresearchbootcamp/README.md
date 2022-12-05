@@ -22,7 +22,7 @@ Each summer, MehtA+ offers a 6-week AI/Machine Learning Research Bootcamp where 
 10) Detecting Credit Card Fraud 
 
 
-We graciously thank the following universities who we have partnered up with for this program. While MehtA+ instructors focused on mentoring students in the AI/machine learning aspects of the projects during the bootcamp, professors from these universities volunteered their time and provided datasets and domain knowledge as students worked on active areas of research. Many of our students have also gone on to research in these professors' labs after the bootcamp and are working on getting published!
+We graciously thank the following universities who have been our partners for this program. While MehtA+ instructors focused on mentoring students in the AI/machine learning aspects of the projects during the bootcamp, professors from these universities volunteered their time and provided datasets and domain knowledge as students worked on active areas of research. Many of our students have also gone on to research in these professors' labs after the bootcamp and are working on getting published!
 
 1) Haverford College
 2) Kenyon College
