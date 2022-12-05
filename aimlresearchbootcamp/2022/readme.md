@@ -57,7 +57,7 @@ This project is an attempt to predict the amount by which a given flight is dela
 ## Mid Projects
 For their mid project, students worked together in groups to predict the gender of the author of a book and in the process, understand what stylistic features may be useful in trying to determine if an author of the book was male or female.
 
-Students were provided a suggested corpus featuring 17th and 18th century science texts written by males and females by Northeastern University and the Women Writers Project.
+Students were provided a suggested corpus featuring 17th and 18th century science texts written by males and females by *Northeastern University and the Women Writers Project*.
 
 A variety of methods and models were used, including Bag of Words, TF-IDF and Support Vector Machines. Each group created a website displaying their methodology. 
 
