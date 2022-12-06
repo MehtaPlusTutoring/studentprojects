@@ -20,7 +20,9 @@ Please navigate to the camp that you are interested in and look through the vari
 
 [AI in Visual Arts Camp](aiinvisualarts) - 1-week camp offered in the summers where students learn the application of AI in visual arts and then create their own AI+Art galleries and pitches for an AI+visual arts startup.
 
-## Other camps (internship-focused)
+## Internship-focused camps
+
+We teach other camps as well in conjunction with a startup/university where students work on a final project that will eventually be used by tens of thousands of users. 
 
 App Development Bootcamp - Fall camp (offered certain years) where students learn how to create an app using React Native for Android and iOS platforms and publish a mobile app for a startup/university
 
@@ -30,13 +32,24 @@ Web Development Bootcamp - Spring camp (offered certain years) where students le
 
 ## 1.5 hour workshops
 
+We teach workshops in the fall (certain yeras) to students individually or in conjunction with organizations. Please reach out to us if you are interested in holding a workshop for your organization.
+
 JavaScript Fall-themed Animations using p5.js
+
 Python Animal-themed game using Pygame
+
 Halloween-Themed Mobile App using React Native
+
 Augmented Reality Turkeys using Unity and Vuforia
+
 Holiday-themed Digital Greeting Cards using HTML, CSS
 
+Graph Theory Math Mystery Theater
 
+
+## Talks
+
+We also give free talks to non-profits on various topics (artificial intelligence, profile-building for university applications, etc.) so please reach out to us if you are interested in hosting a talk.
 
 If you have any questions, please reach out to info@mehtaplustutoring.com and make sure to join our mailing list!
 
