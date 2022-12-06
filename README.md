@@ -48,7 +48,7 @@ We teach 1.5 hour workshops in the fall (certain years) to students individually
 
 ## Talks
 
-We also give free talks to non-profits on various topics (artificial intelligence, profile-building for university applications, staying motivated as a student, journey as a female in STEM, etc.) so please reach out to us if you are interested in hosting a talk.
+We also host 45 min - 1 hr free talks and workshops for non-profits on various topics (artificial intelligence, profile-building for university applications, staying motivated as a student, journey as a female in STEM, etc.) so please reach out to us if you are interested in hosting a talk.
 
 If you have any questions, please reach out to info@mehtaplustutoring.com and make sure to join our mailing list!
 
