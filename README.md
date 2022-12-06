@@ -4,7 +4,6 @@
 <br>
   <img style="width:355px;"src="aimlresearchbootcamp/2022/Spanish.png" />
   <img style="width:240px;"src="aiinvisualartscamp/1.png" />
-  <img style="width:320px;"src="aimlresearchbootcamp/2022/Retinal.png" />
 <br>
 </p>
 
