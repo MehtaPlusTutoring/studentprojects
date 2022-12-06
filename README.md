@@ -21,7 +21,7 @@ Please navigate to the camp that you are interested in and look through the vari
 
 ## Internship-focused camps
 
-We teach other camps as well in the fall/spring (certain years) in conjunction with a startup/university where students work on a final project that will eventually be used by tens of thousands of users. 
+We teach internship-focused camps as well in the fall/spring (certain years) in conjunction with a startup/university where students work on a final project that will eventually be used by tens of thousands of users. 
 
 *App Development Bootcamp* - Fall camp where students learn how to create an app using React Native for Android and iOS platforms and publish a mobile app for a startup/university
 
@@ -29,9 +29,9 @@ We teach other camps as well in the fall/spring (certain years) in conjunction w
 
 *Web Development Bootcamp* - Spring camp where students learn how to create a website on WordPress using HTML and CSS fundamentals and publish a website for a startup/university
 
-## 1.5 hour workshops
+## Workshops
 
-We teach workshops in the fall (certain years) to students individually or in conjunction with organizations. Please reach out to us if you are interested in holding a workshop for your organization.
+We teach 1.5 hour workshops in the fall (certain years) to students individually or in conjunction with organizations. Please reach out to us if you are interested in holding a workshop for your organization.
 
 *JavaScript Fall-themed Animations using p5.js*
 
