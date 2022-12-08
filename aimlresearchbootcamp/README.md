@@ -8,7 +8,7 @@
 <br>
 </p>
 
-Each summer, MehtA+ offers a 6-week AI/Machine Learning Research Bootcamp where students learn the theory and application of AI and machine learning and then apply these techniques to a digital humanities or science project with a real world impact. Here are 10 super cool projects that students have worked on. 
+Each summer, MehtA+ offers a 6-week AI/Machine Learning Research Bootcamp where students learn the theory and application of AI and machine learning and then apply these techniques to a digital humanities or science project with a real world impact. Here are 10 examples of super cool projects that students have worked on. 
 
 1) Predicting weather-related flight delays
 2) Dating an Italian philosopher's texts using handwriting recognition
