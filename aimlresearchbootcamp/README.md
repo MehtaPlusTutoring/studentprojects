@@ -3,7 +3,7 @@
 <p align="center">
 <br>
   <img style="width:300px;"src="2022/Spanish.png" />
-  <img style="width:268px;"src="2022/Retinal.png" />
+  <img style="width:267px;"src="2022/Retinal.png" />
   <img style="width:355px;"src="2022/AgriLearning.jpeg" />
 <br>
 </p>
