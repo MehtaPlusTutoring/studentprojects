@@ -19,7 +19,7 @@ Each summer, MehtA+ offers a 1-week AI in Visual Arts Camp where students learn 
 High school student Erin Y received 2nd Place Award at the the 2022 National Chemistry Illustrated Poem Contest (American Chemical Society) for the digital art she created using DALLE-2 after learning about it in MehtA+ AI in Visual Arts camp!
 
 
-## Student Projects 
+# Student Projects 
 Click on the different years to check out the past projects for AI in Visual Arts camp. We have posted students' art galleries and startup pitches. 
 
 
