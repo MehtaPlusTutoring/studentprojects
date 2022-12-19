@@ -33,7 +33,7 @@ We graciously thank the following universities who have been our partners for th
 
 Check us out at Northeastern University's Women Writers Project blog! - https://wwp.northeastern.edu/blog/machine-learning/
 
-## Student Projects 
+# Student Projects 
 Click on the different years to check out the past final and mid projects for AI/Machine Learning Research Bootcamp. We have posted students' poster presentations, technical papers and websites. 
 
 
