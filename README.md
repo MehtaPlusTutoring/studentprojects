@@ -23,32 +23,11 @@ Please navigate to the camp that you are interested in and look through the vari
 
 We teach internship-focused camps as well in the fall/spring (certain years) in conjunction with a startup/university where students work on a final project that will eventually be used by tens of thousands of users. 
 
-*App Development Bootcamp* - Fall camp where students learn how to create an app using React Native for Android and iOS platforms and publish a mobile app for a startup/university
+[App Development Bootcamp](https://mehtaplustutoring.com/app-development) - Camp where students learn how to create an app using React Native for Android and iOS platforms and publish a mobile app for a startup/university
 
-*Data Visualization Bootcamp* - Fall camp where students learn the science of data visualization using d3.js and create a data visualization for a startup/university
+[Data Visualization Bootcamp](https://mehtaplustutoring.com/data-visualization) - Camp where students learn the science of data visualization using d3.js and create a data visualization for a startup/university
 
-*Web Development Bootcamp* - Spring camp where students learn how to create a website on WordPress using HTML and CSS fundamentals and publish a website for a startup/university
-
-## Workshops
-
-We teach 1.5 hour workshops in the fall (certain years) to students individually or in conjunction with organizations. Please reach out to us if you are interested in holding a workshop for your organization.
-
-*JavaScript Fall-themed Animations using p5.js*
-
-*Python Animal-themed game using Pygame*
-
-*Halloween-Themed Mobile App using React Native*
-
-*Augmented Reality Turkeys using Unity and Vuforia*
-
-*Holiday-themed Digital Greeting Cards using HTML, CSS*
-
-*Graph Theory Math Mystery Theater*
-
-
-## Talks
-
-We also host 45 min. - 1 hr free talks and workshops for non-profits on various topics (artificial intelligence, profile-building for university applications, staying motivated as a student, journey as a female in STEM, etc.) so please reach out to us if you are interested in hosting a talk.
+[Web Development Bootcamp](https://mehtaplustutoring.com/web-development) - Camp where students learn how to create a website on WordPress using HTML and CSS fundamentals and publish a website for a startup/university
 
 If you have any questions, please reach out to info@mehtaplustutoring.com and make sure to join our mailing list!
 
