@@ -36,6 +36,7 @@ Check us out at Northeastern University's Women Writers Project blog! - https://
 # Student Projects 
 Click on the different years to check out the past final and mid projects for AI/Machine Learning Research Bootcamp. We have posted students' poster presentations, technical papers and websites. 
 
+[Past Projects - 2023](2023)
 
 [Past Projects - 2022](2022)
 
