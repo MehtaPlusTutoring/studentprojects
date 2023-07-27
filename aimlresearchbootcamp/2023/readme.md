@@ -30,6 +30,8 @@ curators.
 
 *Team Housing Hunters: Sania Shree, Stanley Zheng, Shokhruzbek Kakharov*
 
+Abstract: This research study aims to explore the use of feature engineering techniques in optimizing the automated valuation model for predicting real estate prices. The study utilizes a real estate dataset with features and employs various feature engineering techniques to extract relevant features for the model. The results of the study demonstrate the effectiveness of feature selection in enhancing the accuracy and efficiency of the automated valuation model. The findings of this research can provide valuable insights into the development of advanced machine learning models for real estate price prediction.
+
 [Link to Poster](HouseHunters.png)
 
 ### **Conservation Encyclopedia: Large Language Models for Text Summarization and Question Answering**
