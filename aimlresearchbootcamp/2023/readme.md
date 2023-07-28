@@ -44,7 +44,7 @@ Abstract: With the exponential rise in research being published each day, enviro
 
 ### **Using CycleGANs for the Conversion of Hand-drawn Chemical Structures into a Digital Format**
 
-*Team The Chemists: Jason Chao, Wallyson Silva, Alexander Lin*
+*Team The Chemists: Jason Chao, Alexander Lin, Wallyson Silva*
 
 Abstract: Chemical structures are often very complicated and can include many components within them. Hand-drawn chemical structures are even more difficult to comprehend, as there are often imperfections within the structures. Therefore, the conversion of hand-drawn structures into a digital format was the objective. In order to accomplish that, two datasets are used, one with digital structures, and one with hand-drawn structures. Additionally, CycleGANs, a machine learning model which conducts image-to-image translation was used to train the data. The model did not produce optimal results, but with more epochs and larger datasets, it could make a better image. 
 
