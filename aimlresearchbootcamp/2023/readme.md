@@ -1,6 +1,6 @@
-<!--<p align="center">
+<p align="center">
   <img src="class.png" />
-</p>-->
+</p>
 
 ## Final Projects
 
