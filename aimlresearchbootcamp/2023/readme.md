@@ -42,6 +42,8 @@ Abstract: With the exponential rise in research being published each day, enviro
 
 [Link to Poster](Conservation.png)
 
+[Link to Paper](Conservation.pdf)
+
 ### **Using CycleGANs for the Conversion of Hand-drawn Chemical Structures into a Digital Format**
 
 *Team The Chemists: Jason Chao, Alexander Lin, Wallyson Silva*
