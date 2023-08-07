@@ -22,6 +22,7 @@ High school student Erin Y received 2nd Place Award at the the 2022 National Che
 # Student Projects 
 Click on the different years to check out the past projects for AI in Visual Arts camp. We have posted students' art galleries and startup pitches. 
 
+[Past Projects - 2023](2023)
 
 [Past Projects - 2022](2022)
 
