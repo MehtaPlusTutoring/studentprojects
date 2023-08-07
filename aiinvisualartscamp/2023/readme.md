@@ -6,8 +6,8 @@
 
 The winner of the startup pitch competition was **TrendSync**. 
 
-[BlockBreaker](PitchDeck1.pdf) – Sheridan, Dev, Rushil
+[Lego-Create](PitchDeck1.pdf) – Sheridan, Dev, Rushil
 
-[Pixel Speak](PitchDeck2.pdf) – Saanvi, Anish
+[TrendSync](PitchDeck2.pdf) – Saanvi, Anish
 
-[Revivature](PitchDeck3.pdf) – Vyom, Adithya, Soham
+[Shadify](PitchDeck3.pdf) – Vyom, Adithya, Soham
