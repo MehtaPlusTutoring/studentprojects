@@ -17,7 +17,7 @@ Please navigate to the camp that you are interested in and look through the vari
 
 [AI/Machine Learning Research Bootcamp](aimlresearchbootcamp) - 6-week bootcamp offered in the summers where students learn the theory and application of AI and machine learning and then apply these techniques to a digital humanities or science project with a real world impact
 
-[AI in Visual Arts Camp](aiinvisualarts) - 1-week camp offered in the summers where students learn the application of AI in visual arts and then create their own AI+Art galleries and pitches for an AI+visual arts startup.
+[AI in Visual Arts Camp](aiinvisualartscamp) - 1-week camp offered in the summers where students learn the application of AI in visual arts and then create their own AI+Art galleries and pitches for an AI+visual arts startup.
 
 ## Internship-focused camps
 
