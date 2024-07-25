@@ -78,7 +78,14 @@ better performance.
 
 *Team NeuroBeat: Chloe Cho, Andy Jiang, Aryan Jindal, Leonardo Medina*
 
-Abstract: 
+Abstract: Functional magnetic resonance imaging (fMRI) brain images were analyzed to investigate the
+neural correlates of music processing in response to five distinct genres: Ambient, Country, Heavy
+Metal, Rock ’n Roll, and Classical Symphonic. Building upon previous work with a subset of 20
+participants, we employed multiple machine learning algorithms (K-Nearest Neighbors, Support
+Vector Machine, and regression models) to improve classification accuracy. Our results demonstrate
+a significant improvement in accuracy, highlighting the potential of music-based analysis for
+therapeutic applications. The study contributes to the growing body of research on the cognitive
+effects of music, offering a novel methodology for analyzing fMRI data.
 
 [Link to Poster](BrainMusic.png)
 
