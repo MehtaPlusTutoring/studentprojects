@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="class.png" />
+  <img src="classphoto.png" />
 </p>
 
 ## Final Projects
