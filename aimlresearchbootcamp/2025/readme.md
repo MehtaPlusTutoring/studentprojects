@@ -44,7 +44,7 @@ Abstract: The ability to access and process what is left of historical academia 
 
 Abstract: 
 
-[Link to Poster](Handwriting.jpg)
+[Link to Poster](Handwriting.png)
 
 [Link to Paper](Handwriting.pdf)
 
