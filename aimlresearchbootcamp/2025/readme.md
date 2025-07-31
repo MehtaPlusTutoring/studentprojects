@@ -60,7 +60,7 @@ framework for dialogue clustering, though hybrid features risk overfitting. Futu
 
 [Link to Paper](Movie.pdf)
 
-Code for these projects can be found [here](https://github.com/orgs/Mehta-AIMLResearchBootcamp24/repositories).
+Code for these projects can be found [here](https://github.com/orgs/MehtA-AI-AIMLResearchBootcamp25/repositories).
 
 ## Mid Projects
 This year, for their midterm project, students worked with PhD student, Ms. Holly Brown from University of Birmingham on a research project.
