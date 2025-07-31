@@ -26,6 +26,8 @@ solution to historical researchers and educators interested in both geographic a
 
 [Link to Paper](NormanSicily.pdf)
 
+[Link to Demo](https://youtube.com/shorts/z1clbsbDUyw)
+
 ### **Lost Leaves: ML Classification of Early Modern and Medieval Libraries** 
 
 *Team Unbeleafable: Abubakr Usman, Cindy Liu, Kritik Jain*
