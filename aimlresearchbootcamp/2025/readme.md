@@ -42,7 +42,7 @@ Abstract: The ability to access and process what is left of historical academia 
 
 *Back to the Future: Haripriya Tolety, Sammy Lei, Kathleen Lin, Anirudh Bandaru*
 
-Abstract: 
+Abstract: This study uses several different models, including Tesseract, Transkribus, and LLMs for transcribing handwritten texts. The given manuscripts date back to the Renaissance in 15th-century Italy. We preprocessed the images to improve clarity and utilized some of them to train existing models. Then, more manuscripts were tested on the models mentioned above. Then, we used a preprocessing method, and the transcription accuracy was compared to that of the original.
 
 [Link to Poster](Handwriting.png)
 
