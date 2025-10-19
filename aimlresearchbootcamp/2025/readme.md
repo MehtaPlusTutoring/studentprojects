@@ -6,7 +6,7 @@
 
 ### **ML-Driven Insights into the Geosocial Dynamics of Norman Sicily** 
 
-*Team Silly Sicily: Nischith Srikanth, Vivian Tang, Carmen Wang, Selina Zhang*
+*Team Silly Sicily: Nischith Srikanth, Vivian Tang, Carmen Wang, Selina Zhang in conjunction with Montclair State University*
 
 Abstract: In this 3-part research project, we will analyze elevation patterns, analyze settlement patterns, and
 construct a sustainable AI chatbot to facilitate interactive learning of Sicilian history. For the first
@@ -30,7 +30,7 @@ solution to historical researchers and educators interested in both geographic a
 
 ### **Lost Leaves: ML Classification of Early Modern and Medieval Libraries** 
 
-*Team Unbeleafable: Abubakr Usman, Cindy Liu, Kritik Jain*
+*Team Unbeleafable: Abubakr Usman, Cindy Liu, Kritik Jain in conjunction with University of South Carolina*
 
 Abstract: The ability to access and process what is left of historical academia is invaluable to the study of bygone societies. However, manually reading through large volumes of historical catalogs written in multiple languages requires not only language proficiency, but an impractical amount of dedication and time. In this paper, we propose an ML-based approach to extract structured genre-specific data from such catalogs. This approach extracts names of libraries, the works they hold, and the likely primary literature category in their collections based on pre-processed text. Using BERT and GPT-4o, our model scores an overall accuracy of 87% for identifying genres of books mentioned in texts. This model can replace manual record-keeping with an automated version.
 
@@ -40,7 +40,7 @@ Abstract: The ability to access and process what is left of historical academia 
 
 ### **Codex Cognitio: Intelligent Reading of Renaissance Texts** 
 
-*Back to the Future: Haripriya Tolety, Sammy Lei, Kathleen Lin, Anirudh Bandaru*
+*Back to the Future: Haripriya Tolety, Sammy Lei, Kathleen Lin, Anirudh Bandaru in conjunction with University of Pennsylvania*
 
 Abstract: This study uses several different models, including Tesseract, Transkribus, and LLMs for transcribing handwritten texts. The given manuscripts date back to the Renaissance in 15th-century Italy. We preprocessed the images to improve clarity and utilized some of them to train existing models. Then, more manuscripts were tested on the models mentioned above. Then, we used a preprocessing method, and the transcription accuracy was compared to that of the original.
 
